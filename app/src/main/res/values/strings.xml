@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">course_work_mobile</string>
+    <string name="learn">учиться</string>
+    <string name="test">проверить знания</string>
+</resources>
